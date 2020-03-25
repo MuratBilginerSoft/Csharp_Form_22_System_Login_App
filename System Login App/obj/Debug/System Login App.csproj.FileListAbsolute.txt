@@ -1,0 +1,11 @@
+c:\users\mrt_b\source\repos\System Login App\System Login App\bin\Debug\System Login App.exe.config
+c:\users\mrt_b\source\repos\System Login App\System Login App\bin\Debug\System Login App.exe
+c:\users\mrt_b\source\repos\System Login App\System Login App\bin\Debug\System Login App.pdb
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System Login App.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System_Login_App.Form1.resources
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System_Login_App.Properties.Resources.resources
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System Login App.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System Login App.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System Login App.exe
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System Login App.pdb
+c:\users\mrt_b\source\repos\System Login App\System Login App\obj\Debug\System_Login_App.AdminPage.resources
